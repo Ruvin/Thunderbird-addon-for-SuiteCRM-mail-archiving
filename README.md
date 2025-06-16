@@ -16,3 +16,5 @@ The following actions are strictly prohibited:
 - Commercial use or deployment in any commercial setting
 
 This software is provided "as is", without warranty of any kind.
+
+### for More details Contact: support@conscious.co.uk
