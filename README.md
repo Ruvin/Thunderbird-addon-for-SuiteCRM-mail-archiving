@@ -1,4 +1,4 @@
-# Thunderbird-addon-for-SuiteCRM-mail-archiving
+# Thunderbird add-on for SuiteCRM mail archiving
 Thunderbird add-on for SuiteCRM mail archiving that supports v8 API
 
 Note: This add-on only supports Thunderbird v128 or above
